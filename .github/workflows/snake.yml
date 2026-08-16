@@ -20,11 +20,25 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
+      - name: Publish Snake to output branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: output
-          PUBLISH_DIR: dist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone https://x-access-token:${GITHUB_TOKEN}@github.com/Tasleem-20/Tasleem-20.git repo
+
+          cd repo
+
+          git checkout --orphan output
+
+          git rm -rf . || true
+
+          cp ../dist/github-contribution-grid-snake.svg .
+
+          git add github-contribution-grid-snake.svg
+
+          git commit -m "Update contribution snake"
+
+          git push origin output --force
