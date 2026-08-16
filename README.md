@@ -354,6 +354,7 @@ width="100%"/>
 <!--                    GITHUB STATISTICS                      -->
 <!-- ========================================================= -->
 
+
 <div align="center">
 
 <img
@@ -365,7 +366,8 @@ width="100%"/>
 <br>
 
 <img
-src="https://streak-stats.demolab.com?user=Tasleem-20&theme=tokyonight&hide_border=true"
+src="./profile/streak.svg"
+alt="GitHub Streak"
 height="180"
 />
 
