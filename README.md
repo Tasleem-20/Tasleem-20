@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                 SHAIK TASLEEM PORTFOLIO                  -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -12,7 +10,9 @@
 src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=180&section=top&text=Shaik%20Tasleem&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
 width="100%"/>
 
-<h2>Software Engineering & Full Stack Developer</h2>
+<h2>Software Engineering</h2>
+
+<h3>Full Stack Developer</h3>
 
 <p>
 Building full-stack applications and exploring AI-powered solutions.
@@ -36,21 +36,12 @@ Building full-stack applications and exploring AI-powered solutions.
   <img src="https://img.shields.io/badge/Portfolio-Visit-7DD3FC?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
 </a>
 
-<br><br>
-
-<img
-src="https://komarev.com/ghpvc/?username=Tasleem-20&style=for-the-badge&color=38BDF8"
-alt="Profile Views"
-/>
-
 </div>
 
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    ABOUT ME                               -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -78,9 +69,7 @@ width="100%"/>
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    TECHNICAL ARSENAL                      -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -171,9 +160,7 @@ width="100%"/>
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    FEATURED PROJECTS                      -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -274,9 +261,7 @@ and healthcare services through an intuitive web application.
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    ACHIEVEMENTS                           -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -291,6 +276,7 @@ width="100%"/>
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 <h1>🥇</h1>
@@ -332,6 +318,7 @@ College Web Development Event
 <b>2025</b>
 
 </td>
+
 </tr>
 </table>
 
@@ -340,18 +327,25 @@ College Web Development Event
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    CURRENTLY LEARNING                     -->
-
 <!-- ========================================================= -->
 
 <div align="center">
 
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=1000"
+width="100%"/>
+
 <h1>📚 Currently Learning</h1>
 
+<br>
+
 <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+
 <img src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0F172A?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/RAG%20Systems-0F172A?style=for-the-badge"/>
 
 </div>
@@ -359,9 +353,7 @@ College Web Development Event
 <br>
 
 <!-- ========================================================= -->
-
-<!--                    GITHUB STATS                           -->
-
+<!--                    GITHUB STATISTICS                      -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -375,18 +367,6 @@ width="100%"/>
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Tasleem-20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasleem-20&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
-<br><br>
-
-<img
 src="https://streak-stats.demolab.com?user=Tasleem-20&theme=tokyonight&hide_border=true"
 height="180"
 />
@@ -396,9 +376,7 @@ height="180"
 <br>
 
 <!-- ========================================================= -->
-
-<!--                    CONTRIBUTION GRAPH                      -->
-
+<!--                    CONTRIBUTION GRAPH                     -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -415,9 +393,7 @@ alt="GitHub Contribution Snake"
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    CONNECT WITH ME                        -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -457,9 +433,7 @@ width="100%"/>
 <br>
 
 <!-- ========================================================= -->
-
 <!--                    FOOTER                                 -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -469,4 +443,3 @@ src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&s
 width="100%"/>
 
 </div>
-
