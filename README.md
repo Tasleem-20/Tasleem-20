@@ -19,19 +19,19 @@ Building full-stack applications and exploring AI-powered solutions.
 <br>
 
 <a href="https://github.com/Tasleem-20">
-  <img src="https://img.shields.io/badge/GitHub-Tasleem--20-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Tasleem--20-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tasleem-shaik-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Tasleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shaik%20Tasleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shaiktasleem822@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7DD3FC?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-7DD3FC?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
 </a>
 
 </div>
@@ -63,6 +63,64 @@ width="100%"/>
 <br><br>
 📚 Continuously learning, building and improving
 </p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    EXPERIENCE                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=1000"
+width="100%"/>
+
+<h1>💼 Experience</h1>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="90%">
+
+<h2>💻 Full Stack Intern</h2>
+
+<p>
+<b>21 September 2025 – 21 March 2026</b>
+</p>
+
+<p>
+Completed a six-month Full Stack Development internship with
+hands-on experience in building, integrating and improving
+full-stack web applications.
+</p>
+
+<h3>🔹 Responsibilities & Learning</h3>
+
+<ul align="left">
+<li>Developed and improved responsive web application interfaces.</li>
+<li>Worked with frontend and backend technologies in a full-stack environment.</li>
+<li>Implemented and integrated REST APIs.</li>
+<li>Worked with databases and application data management.</li>
+<li>Used Git and GitHub for version control and collaborative development.</li>
+<li>Worked on debugging, testing and improving application functionality.</li>
+<li>Gained practical experience in full-stack application development.</li>
+</ul>
+
+<h3>🛠️ Technologies</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" height="45"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
@@ -104,9 +162,9 @@ Technologies and concepts I use to design, build and deploy applications.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="55"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge"/>
 
 <br><br>
 
@@ -120,9 +178,9 @@ Technologies and concepts I use to design, build and deploy applications.
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=ai&logoColor=7DD3FC"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=7DD3FC"/>
-<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge&logoColor=7DD3FC"/>
-<img src="https://img.shields.io/badge/Embeddings-0F172A?style=for-the-badge&logoColor=7DD3FC"/>
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 
 <br><br>
@@ -166,95 +224,319 @@ width="100%"/>
 <h1>🚀 Featured Projects</h1>
 
 <p>
-A selection of projects showcasing my full-stack and AI development work.
+Projects demonstrating my experience in full-stack development,
+AI-powered applications and software engineering.
 </p>
 
 </div>
 
 <br>
 
-<!-- ===================== PROJECT 1 ========================== -->
+<!-- ========================================================= -->
+<!--                    GROUNDED RAG                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <h2>🔎 Grounded RAG System</h2>
 
 <p>
-A modular Retrieval-Augmented Generation application for document-based
-question answering using semantic retrieval and grounded responses.
+An AI-powered Retrieval-Augmented Generation system designed to
+answer questions from uploaded documents using semantic retrieval
+and grounded evidence.
 </p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/Tasleem-20/Grounded-car-rag-system">
-  <img src="https://img.shields.io/badge/📂%20GitHub-Repository-0F172A?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://grounded-car-rag-system-lt3uxr7rpndyjmpwvxqm3g.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀%20Live-Demo-38BDF8?style=for-the-badge"/>
-</a>
 
 </div>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💡 Overview</h3>
+
+<p>
+The system processes documents, creates searchable representations,
+retrieves relevant information and generates answers grounded in
+the retrieved evidence.
+</p>
+
+<h3>✨ Highlights</h3>
+
+<ul>
+<li>📄 Document ingestion and processing</li>
+<li>✂️ Text chunking for retrieval</li>
+<li>🧠 Embedding-based semantic search</li>
+<li>🔎 FAISS vector similarity search</li>
+<li>🤖 Retrieval-Augmented Generation</li>
+<li>📚 Evidence-grounded responses</li>
+<li>⚡ Interactive Streamlit interface</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+
 <br><br>
 
-<!-- ===================== PROJECT 2 ========================== -->
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br><br>
+
+<h3>🔗 Links</h3>
+
+<a href="https://github.com/Tasleem-20/Grounded-car-rag-system">
+<img src="https://img.shields.io/badge/📂%20Repository-0F172A?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<a href="https://grounded-car-rag-system-lt3uxr7rpndyjmpwvxqm3g.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-38BDF8?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    NUTRICLOUDMONITOR                      -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <h2>🥗 NutriCloudMonitor</h2>
 
 <p>
-A full-stack application focused on monitoring nutrition-related data
-through an interactive web application and dashboard experience.
+A full-stack nutrition monitoring platform designed to provide
+users with an interactive application for managing and visualizing
+nutrition-related information.
 </p>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💡 Overview</h3>
+
+<p>
+NutriCloudMonitor combines a responsive frontend, backend services
+and database integration to provide a structured platform for
+nutrition-related monitoring and visualization.
+</p>
+
+<h3>✨ Highlights</h3>
+
+<ul>
+<li>🔐 JWT-based user authentication</li>
+<li>🛡️ Role-based access control</li>
+<li>📊 Interactive nutrition dashboard</li>
+<li>📈 Nutrition data visualization</li>
+<li>🔄 REST API integration</li>
+<li>🗄️ MongoDB database integration</li>
+<li>📱 Responsive web interface</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="45"/>
 
 <br><br>
 
-<a href="https://github.com/Tasleem-20/NutriCloudMonitor">
-  <img src="https://img.shields.io/badge/📂%20GitHub-Repository-0F172A?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://nutri-cloud-monitor.vercel.app/login">
-  <img src="https://img.shields.io/badge/🚀%20Live-Demo-38BDF8?style=for-the-badge"/>
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 <br><br>
 
-<!-- ===================== PROJECT 3 ========================== -->
+<h3>🔗 Links</h3>
+
+<a href="https://github.com/Tasleem-20/NutriCloudMonitor">
+<img src="https://img.shields.io/badge/📂%20Repository-0F172A?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<a href="https://nutri-cloud-monitor.vercel.app/login">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-38BDF8?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    DOCSPOT                                -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <h2>🏥 Docspot Appointment Booking</h2>
 
 <p>
-A full-stack appointment booking platform designed to connect patients
-and healthcare services through an intuitive web application.
+A full-stack healthcare appointment booking platform that provides
+an interactive system for managing appointments and connecting
+users with healthcare services.
 </p>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💡 Overview</h3>
+
+<p>
+Docspot provides a structured appointment booking experience with
+frontend interaction, backend APIs and database integration for
+managing application data.
+</p>
+
+<h3>✨ Highlights</h3>
+
+<ul>
+<li>👤 User registration and authentication</li>
+<li>👨‍⚕️ Doctor and patient workflow</li>
+<li>📅 Appointment scheduling</li>
+<li>🕐 Appointment slot management</li>
+<li>🔐 Secure authentication</li>
+<li>🔄 REST API integration</li>
+<li>🗄️ MongoDB data management</li>
+<li>📱 Responsive user interface</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="45"/>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<br><br>
+
+<h3>🔗 Links</h3>
+
 <a href="https://github.com/Tasleem-20/Docspot_appointment_Booking">
-  <img src="https://img.shields.io/badge/📂%20GitHub-Repository-0F172A?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-0F172A?style=for-the-badge&logo=github"/>
 </a>
+
+<br><br>
 
 <a href="https://docspot-appointment-booking.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀%20Live-Demo-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-38BDF8?style=for-the-badge"/>
 </a>
 
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                    FLIGHT FINDER                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<h2>✈️ Flight Finder – Flight Booking Application</h2>
+
+<p>
+A full-stack MERN flight booking application that allows users
+to search flights, view available options, select seats and
+manage flight bookings through an interactive web interface.
+</p>
+
 </div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💡 Overview</h3>
+
+<p>
+A team-based full-stack application developed to provide a
+complete online flight booking experience with authentication,
+flight management, seat selection and booking workflows.
+</p>
+
+<h3>✨ Highlights</h3>
+
+<ul>
+<li>🔎 Flight search by source and destination</li>
+<li>✈️ Flight availability and information</li>
+<li>🪑 Interactive seat selection</li>
+<li>🎫 Flight booking management</li>
+<li>🔐 JWT-based authentication</li>
+<li>💳 Payment integration</li>
+<li>👨‍💼 Admin dashboard</li>
+<li>📋 Booking management</li>
+<li>📱 Responsive web interface</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="45"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge"/>
+
+<br><br>
+
+<h3>👥 Team Project</h3>
+
+<p>
+<b>Team Leader:</b> Shaik Tasleem
+</p>
+
+<br>
+
+<a href="https://github.com/Tasleem-20/flight_finder">
+<img src="https://img.shields.io/badge/📂%20Repository-0F172A?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -295,7 +577,7 @@ College Kaggle Competition
 
 <h2>2nd Rank</h2>
 
-College Hackathon 
+College Hackathon
 
 <br><br>
 
@@ -354,7 +636,6 @@ width="100%"/>
 <!--                    GITHUB STATISTICS                      -->
 <!-- ========================================================= -->
 
-
 <div align="center">
 
 <img
@@ -407,19 +688,19 @@ width="100%"/>
 <br>
 
 <a href="https://www.linkedin.com/in/tasleem-shaik-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shaiktasleem822@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Shaik%20Tasleem-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Shaik%20Tasleem-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Tasleem-20">
-  <img src="https://img.shields.io/badge/GitHub-Tasleem--20-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Tasleem--20-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
 </a>
 
 <br><br>
