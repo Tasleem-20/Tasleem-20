@@ -10,11 +10,9 @@
 src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=180&section=top&text=Shaik%20Tasleem&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
 width="100%"/>
 
-<h2>Software Engineering</h2>
+<h1>Software Engineering &nbsp;|&nbsp; Full Stack Developer</h1>
 
-<h3>Full Stack Developer</h3>
-
-<p>
+<p style="font-size: 18px;">
 Building full-stack applications and exploring AI-powered solutions.
 </p>
 
