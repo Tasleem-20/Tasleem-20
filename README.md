@@ -295,7 +295,7 @@ College Kaggle Competition
 
 <h2>2nd Rank</h2>
 
-College Coding Event
+College Hackathon 
 
 <br><br>
 
