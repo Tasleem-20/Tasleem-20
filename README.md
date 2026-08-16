@@ -30,7 +30,7 @@ Building full-stack applications and exploring AI-powered solutions.
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://shaik-tasleem-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7DD3FC?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
 </a>
 
